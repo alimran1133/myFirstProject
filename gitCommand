@@ -1,0 +1,8 @@
+cd Desktop
+cd "my first project"
+git init
+git add .
+git commit -m "adding a text"
+git remote add origin link
+git push -u origin master
+
