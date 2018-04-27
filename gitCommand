@@ -1,5 +1,5 @@
 cd Desktop
-cd "my first project"
+cd "project folder name"
 git init
 git add .
 git commit -m "adding a text"
